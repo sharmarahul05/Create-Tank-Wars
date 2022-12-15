@@ -1,2 +1,1 @@
-# Create-Tank-Wars
-JavaGame TicTacToe developed in Eclipse IDE.
+# JavaGame-TicTacToe-developed-in-Eclipse-IDE.
